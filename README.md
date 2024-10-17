@@ -33,7 +33,7 @@ Antes de executar o projeto, você precisa ter os seguintes itens instalados:
 
 -   **Clicar No Botão Azul Deve Alterar Answer**: Valida se a interação com o botão Azul exibido na página, altera o valor exibido no elemento canvas `Anwer`.
 -   **Clicar No Botão VermelhoDeve Alterar Answer**: Valida se a interação com o botão Vermelho exibido na página, altera o valor exibido no elemento canvas `Anwer`.
-- -   **Clicar No Botão Verde Deve Alterar Answer**: Valida se a interação com o botão Verde exibido na página, altera o valor exibido no elemento canvas `Anwer`.
+-   **Clicar No Botão Verde Deve Alterar Answer**: Valida se a interação com o botão Verde exibido na página, altera o valor exibido no elemento canvas `Anwer`.
 
 ### 2. Interação com as opções Edit e Delete
 
